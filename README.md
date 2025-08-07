@@ -1,10 +1,6 @@
 <h1 align="center"><code>🧠 wakura@wired:~$ whoami</code></h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/wakura/wakura/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%" />
-</p>
-
-<p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/Serial_Experiments_Lain.png/220px-Serial_Experiments_Lain.png" width="180"><br><br>
   <code>Seeker of truth in the layers of the machine</code><br>
   <em>Exploring CTFs, system internals & digital consciousness</em><br><br>
