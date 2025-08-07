@@ -1,36 +1,73 @@
-🧑 Présentation
-# Salut, moi c’est Wakura 👋
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
 
-Je suis un passionné de cybersécurité, de Linux et de développement 🐧  
-Actuellement, je travaille sur des projets CTF, des scripts Python et des environnements personnalisés sur Gentoo.
+ruby
+Copier
+Modifier
+        🧠 wakura@wired:~$ whoami
+        > wakura
+        > seeker of truth in the layers of the machine
 
-## 🚧 Projets récents
+        ░░ exploring CTFs, system internals & digital consciousness ░░
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
 
-- 🔒 [Titanic HTB Writeup](https://github.com/ton-profil/titanic-writeup)
-- 🧠 IA Locale sur Windows : assistant intelligent avec voix
-- 💻 Blog CTF style *Serial Experiments Lain* (WIP)
+shell
+Copier
+Modifier
 
-- 🛠️ Compétences techniques
+## > [ Projects.log ]
 
-- ## ⚙️ Compétences
+▸ [Titanic HTB Writeup] :: https://github.com/your-username/titanic-writeup
+▸ [Local Voice AI Assistant] :: autonomous responses from a local mind
+▸ [CTF Blog (Wired ver.)] :: in development... syncing with the Wired...
 
-![Linux](https://img.shields.io/badge/-Linux-333?style=flat&logo=linux)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
-![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
-![Arch Linux](https://img.shields.io/badge/-Arch_Linux-1793D1?style=flat&logo=archlinux&logoColor=white)
+yaml
+Copier
+Modifier
 
-📈 Stats GitHub
+---
 
-## 📊 Stats GitHub
+## > [ stack.cfg ]
 
-![Wakura's GitHub stats](https://github-readme-stats.vercel.app/api?username=wakura&show_icons=true&theme=tokyonight)
+Operating systems:
+▸ Arch Linux
+▸ Gentoo Linux
+Languages:
+▸ Python ▸ Bash ▸ C ▸ Markdown
+Tools:
+▸ Nmap ▸ Wireshark ▸ GDB ▸ Git ▸ Tmux ▸ Neovim
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wakura&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+yaml
+Copier
+Modifier
 
+---
 
-## 🔗 Me retrouver
+## > [ stats.bin ]
 
-- 🖥️ Blog : [wakura-ctf.net](https://wakura-ctf.net)
-- 💬 Discord : wakura#0000
-- 🐦 Twitter (X) : [@wakura_dev](https://twitter.com/wakura_dev)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wakura&show_icons=true&theme=tokyonight&hide_border=true&custom_title=Wired_Activity" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wakura&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## > [ links.log ]
+
+▸ Blog :: https://wakura-ctf.net
+▸ Twitter :: https://twitter.com/wakura_dev
+▸ Discord :: wakura#0000
+
+yaml
+Copier
+Modifier
+
+---
+
+wakura@wired:~$ exit
+connection terminated.
+
+Copier
+Modifier
+
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
