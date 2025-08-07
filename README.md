@@ -1,44 +1,53 @@
+```
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
 
-ruby
-Copier
-Modifier
-        🧠 wakura@wired:~$ whoami
-        > wakura
-        > seeker of truth in the layers of the machine
+```
+      ⠀⠀⠀⠀⠀⠀⠀⢀⣴⣶⣶⣦⣄
+      ⠀⠀⠀⠀⠀⠀⢠⣿⣿⣿⣿⣿⣿⣷⣄
+      ⠀⠀⠀⠀⢀⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧
+      ⠀⠀⠀⣠⣿⣿⣿⠟⠋⠁⠀⠀⠈⠙⠻⣿⣿⣧
+      ⠀⠀⣼⣿⣿⡟⠀⠀⢀⣀⣤⣤⣀⡀⠀⠈⣿⣿⣿
+      ⠀⢸⣿⣿⡿⠀⣠⣾⣿⡿⠛⠻⢿⣿⣷⡄⢸⣿⣿
+      ⠀⢸⣿⣿⡇⠘⣿⣿⣷⠀⠀⠀⣾⣿⣿⡇⢸⣿⣿
+      ⠀⠘⣿⣿⣧⠀⠈⠻⠿⠀⠀⠀⠻⠿⠋⠀⣼⣿⣿
+      ⠀⠀⠹⣿⣿⣷⣄⠀⠀⠀⠀⠀⠀⠀⣠⣾⣿⣿⠏
+      ⠀⠀⠀⠙⠻⣿⣿⣿⣷⣶⣶⣶⣾⣿⣿⣿⠟⠋
+      ⠀⠀⠀⠀⠀⠀⠉⠛⠻⠿⠿⠿⠛⠋⠁
+```
 
-        ░░ exploring CTFs, system internals & digital consciousness ░░
+```
+            🧠 wakura@wired:~$ whoami
+            > wakura
+            > seeker of truth in the layers of the machine
+
+            ░░ exploring CTFs, system internals & digital consciousness ░░
+
+            🛰️ I'm on the Wired ░ [![](https://img.shields.io/badge/wired-active-brightgreen?style=flat&labelColor=111&logo=arch-linux&logoColor=green)]()
+
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
-
-shell
-Copier
-Modifier
+```
 
 ## > [ Projects.log ]
 
-▸ [Titanic HTB Writeup] :: https://github.com/your-username/titanic-writeup
-▸ [Local Voice AI Assistant] :: autonomous responses from a local mind
-▸ [CTF Blog (Wired ver.)] :: in development... syncing with the Wired...
-
-yaml
-Copier
-Modifier
+```
+▸ [Titanic HTB Writeup]        :: https://github.com/your-username/titanic-writeup
+▸ [Local Voice AI Assistant]   :: autonomous responses from a local mind
+▸ [CTF Blog (Wired ver.)]      :: in development... syncing with the Wired...
+```
 
 ---
 
 ## > [ stack.cfg ]
 
+```
 Operating systems:
-▸ Arch Linux
-▸ Gentoo Linux
+    ▸ Arch Linux
+    ▸ Gentoo Linux
 Languages:
-▸ Python ▸ Bash ▸ C ▸ Markdown
+    ▸ Python ▸ Bash ▸ C ▸ Markdown
 Tools:
-▸ Nmap ▸ Wireshark ▸ GDB ▸ Git ▸ Tmux ▸ Neovim
-
-yaml
-Copier
-Modifier
+    ▸ Nmap ▸ Wireshark ▸ GDB ▸ Git ▸ Tmux ▸ Neovim
+```
 
 ---
 
@@ -52,22 +61,27 @@ Modifier
 
 ---
 
-## > [ links.log ]
+## > [ snake.log ]
 
-▸ Blog :: https://wakura-ctf.net
-▸ Twitter :: https://twitter.com/wakura_dev
-▸ Discord :: wakura#0000
-
-yaml
-Copier
-Modifier
+<p align="center">
+  <img src="https://github.com/wakura/wakura/raw/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
 
 ---
 
+## > [ links.log ]
+
+```
+▸ Blog     :: https://wakura-ctf.net
+▸ Twitter  :: https://twitter.com/wakura_dev
+▸ Discord  :: wakura#0000
+```
+
+---
+
+```
 wakura@wired:~$ exit
 connection terminated.
-
-Copier
-Modifier
+```
 
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
