@@ -1,7 +1,7 @@
 <h1 align="center"><code>🧠 wakura@wired:~$ whoami</code></h1>
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/Serial_Experiments_Lain.png/220px-Serial_Experiments_Lain.png" width="180"><br><br>
+  <img src="[https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/Serial_Experiments_Lain.png/220px-Serial_Experiments_Lain.png](https://images.steamusercontent.com/ugc/811055404668406828/C20377A85AC435CB00B000AFAD88A7B0C7D85A87/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)" width="180"><br><br>
   <code>Seeker of truth in the layers of the machine</code><br>
   <em>Exploring CTFs, system internals & digital consciousness</em><br><br>
   <img src="https://img.shields.io/badge/wired-active-brightgreen?style=flat&labelColor=111&logo=arch-linux&logoColor=green" />
