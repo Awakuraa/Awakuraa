@@ -1,87 +1,57 @@
-```
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
-
-```
-      ⠀⠀⠀⠀⠀⠀⠀⢀⣴⣶⣶⣦⣄
-      ⠀⠀⠀⠀⠀⠀⢠⣿⣿⣿⣿⣿⣿⣷⣄
-      ⠀⠀⠀⠀⢀⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧
-      ⠀⠀⠀⣠⣿⣿⣿⠟⠋⠁⠀⠀⠈⠙⠻⣿⣿⣧
-      ⠀⠀⣼⣿⣿⡟⠀⠀⢀⣀⣤⣤⣀⡀⠀⠈⣿⣿⣿
-      ⠀⢸⣿⣿⡿⠀⣠⣾⣿⡿⠛⠻⢿⣿⣷⡄⢸⣿⣿
-      ⠀⢸⣿⣿⡇⠘⣿⣿⣷⠀⠀⠀⣾⣿⣿⡇⢸⣿⣿
-      ⠀⠘⣿⣿⣧⠀⠈⠻⠿⠀⠀⠀⠻⠿⠋⠀⣼⣿⣿
-      ⠀⠀⠹⣿⣿⣷⣄⠀⠀⠀⠀⠀⠀⠀⣠⣾⣿⣿⠏
-      ⠀⠀⠀⠙⠻⣿⣿⣿⣷⣶⣶⣶⣾⣿⣿⣿⠟⠋
-      ⠀⠀⠀⠀⠀⠀⠉⠛⠻⠿⠿⠿⠛⠋⠁
-```
-
-```
-            🧠 wakura@wired:~$ whoami
-            > wakura
-            > seeker of truth in the layers of the machine
-
-            ░░ exploring CTFs, system internals & digital consciousness ░░
-
-            🛰️ I'm on the Wired ░ [![](https://img.shields.io/badge/wired-active-brightgreen?style=flat&labelColor=111&logo=arch-linux&logoColor=green)]()
-
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
-```
-
-## > [ Projects.log ]
-
-```
-▸ [Titanic HTB Writeup]        :: https://github.com/your-username/titanic-writeup
-▸ [Local Voice AI Assistant]   :: autonomous responses from a local mind
-▸ [CTF Blog (Wired ver.)]      :: in development... syncing with the Wired...
-```
-
----
-
-## > [ stack.cfg ]
-
-```
-Operating systems:
-    ▸ Arch Linux
-    ▸ Gentoo Linux
-Languages:
-    ▸ Python ▸ Bash ▸ C ▸ Markdown
-Tools:
-    ▸ Nmap ▸ Wireshark ▸ GDB ▸ Git ▸ Tmux ▸ Neovim
-```
-
----
-
-## > [ stats.bin ]
+<h1 align="center"><code>🧠 wakura@wired:~$ whoami</code></h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wakura&show_icons=true&theme=tokyonight&hide_border=true&custom_title=Wired_Activity" />
-  <br>
+  <img src="https://raw.githubusercontent.com/wakura/wakura/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/Serial_Experiments_Lain.png/220px-Serial_Experiments_Lain.png" width="180"><br><br>
+  <code>Seeker of truth in the layers of the machine</code><br>
+  <em>Exploring CTFs, system internals & digital consciousness</em><br><br>
+  <img src="https://img.shields.io/badge/wired-active-brightgreen?style=flat&labelColor=111&logo=arch-linux&logoColor=green" />
+</p>
+
+---
+
+### 📁 <code>[ Projects.log ]</code>
+
+- 🔐 [Titanic HTB Writeup](https://github.com/your-username/titanic-writeup)  
+- 🧠 Local Voice AI Assistant — Autonomous local responses  
+- 💻 CTF Blog (*Wired ver.*) — syncing with the Wired...
+
+---
+
+### ⚙️ <code>[ stack.cfg ]</code>
+
+```bash
+OS:        Arch Linux / Gentoo Linux
+Languages: Python, Bash, C, Markdown
+Tools:     Nmap, Wireshark, GDB, Git, Tmux, Neovim
+```
+
+---
+
+### 📊 <code>[ stats.bin ]</code>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wakura&show_icons=true&theme=tokyonight&hide_border=true&custom_title=Wired_Activity" /><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wakura&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## > [ snake.log ]
+### 🔗 <code>[ links.log ]</code>
+
+```bash
+Blog:    https://wakura-ctf.net
+Twitter: https://twitter.com/wakura_dev
+Discord: wakura#0000
+```
+
+---
+
+<p align="center"><code>wakura@wired:~$ exit</code><br><em>connection terminated</em></p>
 
 <p align="center">
-  <img src="https://github.com/wakura/wakura/raw/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
 </p>
-
----
-
-## > [ links.log ]
-
-```
-▸ Blog     :: https://wakura-ctf.net
-▸ Twitter  :: https://twitter.com/wakura_dev
-▸ Discord  :: wakura#0000
-```
-
----
-
-```
-wakura@wired:~$ exit
-connection terminated.
-```
-
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
