@@ -12,7 +12,7 @@
 ### 📁 <code>[ Projects.log ]</code>
 
 - 🔐 [Titanic HTB Writeup](https://github.com/your-username/titanic-writeup)  
-- 🧠 Local Voice AI Assistant — Autonomous local responses  
+- 🧠 Local Voice AI Assistant — Autonomous local responses (like neurosama, vedal)
 - 💻 CTF Blog (*Wired ver.*) — syncing with the Wired...
 
 ---
